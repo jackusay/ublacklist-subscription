@@ -2,7 +2,7 @@
 ublacklist subscription
 
 ### source
-* 擋半機械生成的文章，特別是痞客幫pixnet
+* 擋半機械生成的seo文章，特別是痞客幫pixnet
 
 pixnet, fc2, blogpost
 
