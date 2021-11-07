@@ -11,3 +11,6 @@ pixnet, fc2, blogpost
 ooxx.co
 
 * 
+
+### farm
+擋掉一些聚合網站
