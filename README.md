@@ -20,3 +20,7 @@ ooxx.co
 
 ### farm
 擋掉一些聚合網站
+
+ref:
+
+https://github.com/iorate/uBlacklist
