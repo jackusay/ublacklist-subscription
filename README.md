@@ -2,6 +2,9 @@
 ublacklist subscription
 
 ### source
+
+不用期望效果，因為根本擋不完。
+
 * 半機械生成的seo文章，特別是痞客幫pixnet
 
 文章內容連結到各大網路賣場
