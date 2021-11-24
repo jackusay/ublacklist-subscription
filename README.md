@@ -3,6 +3,8 @@ ublacklist subscription
 
 ### source
 
+https://raw.githubusercontent.com/jackusay/ublacklist-subscription/main/source
+
 不用太期望效果，因為擋不完。就加減擋一下。
 
 * 半機械生成的行銷文，特別是痞客幫pixnet。
@@ -30,6 +32,9 @@ content:
 > www.tw-goldenwinner-57.com
 
 ### farm
+
+https://raw.githubusercontent.com/jackusay/ublacklist-subscription/main/farm
+
 擋掉
 * 聚合網站
 * 亂塞關鍵字的網站
