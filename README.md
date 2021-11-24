@@ -30,7 +30,12 @@ content:
 > www.tw-goldenwinner-57.com
 
 ### farm
-擋掉一些聚合網站
+擋掉
+* 聚合網站
+* 亂塞關鍵字的網站
+> ex: 靠北上班族,
+
+---
 
 ref:
 
