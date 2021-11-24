@@ -3,7 +3,7 @@ ublacklist subscription
 
 ### source
 
-不用期望效果，因為根本擋不完。
+不用太期望效果，因為擋不完。就加減擋一下。
 
 * 半機械生成的行銷文，特別是痞客幫pixnet。
  
