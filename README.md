@@ -1,9 +1,14 @@
 # ublacklist-subscription
 ublacklist subscription
 
-### source
+直接將下列網址加入 ublacklist 的 subscription即可：
 
 https://raw.githubusercontent.com/jackusay/ublacklist-subscription/main/source
+
+https://raw.githubusercontent.com/jackusay/ublacklist-subscription/main/farm
+
+
+### source
 
 不用太期望效果，因為擋不完。就加減擋一下。
 
