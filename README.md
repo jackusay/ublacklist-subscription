@@ -21,7 +21,7 @@ https://raw.githubusercontent.com/jackusay/ublacklist-subscription/main/farm
 這些文章的目的就是讓你連到各大拍賣網站。momo...
 文章內容連結到各大網路賣場
 
-pixnet, fc2, blogpost
+pixnet, fc2, blogpost...
 
 ex:
 
