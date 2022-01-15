@@ -16,7 +16,7 @@ https://raw.githubusercontent.com/jackusay/ublacklist-subscription/main/farm
 
 不用太期望效果，因為擋不完。就加減擋一下。
 
-* 半機械生成的行銷文，特別是痞客幫pixnet。
+* 半機械生成的行銷文(特別是痞客幫pixnet)。
  
 這些文章的目的就是讓你連到各大拍賣網站。momo...
 文章內容連結到各大網路賣場
