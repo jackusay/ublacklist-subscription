@@ -1,5 +1,8 @@
 # ublacklist-subscription
-ublacklist subscription
+
+* 簡介
+
+讓 搜尋引擎 不再呈現 不良的網頁(主要擋掉半機械生成的網頁)。利用 ublacklist 擋掉。
 
 直接將下列網址加入 ublacklist 的 subscription即可：
 
