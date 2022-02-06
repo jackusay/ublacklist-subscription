@@ -14,8 +14,6 @@ https://raw.githubusercontent.com/jackusay/ublacklist-subscription/main/farm
 
 ### source
 
-不用太期望效果，因為擋不完。就加減擋一下。
-
 * 半機械生成的行銷文(特別是痞客幫pixnet)。
  
 這些文章的目的就是讓你連到各大拍賣網站。momo...
@@ -41,6 +39,13 @@ content:
 > www.tw-goldenwinner-57.com
 
 * ...
+
+#### 效果
+算是加減擋一下不良的搜尋結果。
+
+若使用後還是看到不良的搜尋結果(特別是在google**產品名字**的時候)，可能是：
+* 根本就沒有多少人在寫該產的使用心得
+* 擋的不夠
 
 ### farm
 
