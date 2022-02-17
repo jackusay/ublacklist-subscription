@@ -63,3 +63,5 @@ https://raw.githubusercontent.com/jackusay/ublacklist-subscription/main/farm
 ref:
 
 https://github.com/iorate/uBlacklist
+
+https://github.com/dallaslu/penzai-list
