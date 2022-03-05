@@ -65,3 +65,13 @@ ref:
 https://github.com/iorate/uBlacklist
 
 https://github.com/dallaslu/penzai-list
+
+---
+
+帶處理
+
+https://github.com/mxt305/smashXxcnxx/blob/main/source/mirrorList.csv
+
+from
+
+https://github.com/danny0838/content-farm-terminator/issues/72
