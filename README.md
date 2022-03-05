@@ -2,7 +2,9 @@
 
 * 簡介
 
-讓 搜尋引擎 不再呈現 不良的網頁(主要擋掉半機械生成的網頁)。利用 ublacklist 擋掉。
+讓 搜尋引擎 不再呈現 不良的網頁。
+
+利用 ublacklist 擋掉"騙"點擊的網站，這些網站沒有實質內容，主要是靠亂塞`關鍵字`，將使用者轉移到特定網站。
 
 直接將下列網址加入 ublacklist 的 subscription即可：
 
@@ -38,6 +40,7 @@ content:
 > 
 > www.tw-goldenwinner-57.com
 
+* just a moment 轉跳
 * ...
 
 #### 效果
@@ -52,7 +55,6 @@ content:
 https://raw.githubusercontent.com/jackusay/ublacklist-subscription/main/farm
 
 擋掉
-* 聚合網站
 * 亂塞關鍵字的網站
 > ex: 靠北上班族,
 
@@ -65,6 +67,8 @@ ref:
 https://github.com/iorate/uBlacklist
 
 https://github.com/dallaslu/penzai-list
+
+https://github.com/mxt305/smashXxcnxx
 
 ---
 
