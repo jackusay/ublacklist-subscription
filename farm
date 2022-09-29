@@ -302,4 +302,4 @@
 *://justcomely.com/*
 
 #title
-*復製輸入∶AK6959*
+title/.*復製輸入∶AK6959/i
