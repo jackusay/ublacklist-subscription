@@ -1,5 +1,6 @@
 js:
 
+// https://stackoverflow.com/questions/7376598/in-javascript-how-do-i-check-if-an-array-has-duplicate-values
 function hasDuplicates(array) {
     var valuesSoFar = Object.create(null);
     for (var i = 0; i < array.length; ++i) {
