@@ -1,0 +1,39 @@
+js:
+
+function hasDuplicates(array) {
+    var valuesSoFar = Object.create(null);
+    for (var i = 0; i < array.length; ++i) {
+        var value = array[i];
+        if (value in valuesSoFar) {
+			console.log(value);
+            return true;
+        }
+        valuesSoFar[value] = true;
+    }
+    return false;
+}
+var x = document.getElementById("w3review").value;
+var arrayOfLines = x.replace(/\r\n/g,"\n").split("\n");
+hasDuplicates(arrayOfLines)
+
+---
+
+*://blog.udn.com/z5c01oj1vl/*
+*://blog.udn.com/b3xbs69656/*
+*://blog.udn.com/m2d16k455o/*
+*://blog.udn.com/sfjdgqudah/*
+*://blog.udn.com/a3d4tdzth/*
+*://blog.udn.com/doqugfcjwa/*
+*://blog.udn.com/dcroofipae/*
+*://blog.udn.com/wkqogq2ascgo/*
+*://blog.udn.com/j8c28x35wr/*
+*://blog.udn.com/h1a68ku0t/*
+*://blog.udn.com/b7k95bxh7i/*
+*://blog.udn.com/e2m74nvdbf/*
+*://blog.udn.com/t0l12e3kfx/*
+*://blog.udn.com/y0p8z8d441/*
+*://blog.udn.com/z7w37o253u/*
+*://blog.xuite.net/w1hr9b5/*
+*://blog.xuite.net/kj51b9t/*
+*://blog.xuite.net/x5m1i1p1/*
+*://blog.xuite.net/q0oo3s2l/*
